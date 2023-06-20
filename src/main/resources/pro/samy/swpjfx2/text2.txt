@@ -1,0 +1,7 @@
+die Schule
+das Kino
+die Bibliothek
+das Museum
+das Theater
+die Kirche
+das Café
